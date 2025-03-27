@@ -2,6 +2,6 @@
 
 @layer components{
     .container {
-      @apply px-10
+      @apply md:px-10
     }
   }
