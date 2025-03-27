@@ -1,1 +1,1 @@
-Hotel Booking App using MERN
+# Hotel Booking App using MERN
